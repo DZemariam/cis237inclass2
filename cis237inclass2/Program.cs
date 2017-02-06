@@ -14,6 +14,7 @@ namespace cis237inclass2
 
             Console.WriteLine("Solve 5!");
             Console.WriteLine("The answer is:");
+            //Call to Factorial class. The factorial instance is created in program.cs
             Console.WriteLine(factorial.CalculateFactorial(5));
 
         }
